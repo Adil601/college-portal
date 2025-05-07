@@ -14,7 +14,7 @@ export default function Home() {
     <main className="flex flex-col items-center justify-center p-12 max-w-3xl mx-auto">
       <Card>
         <CardHeader>
-          <CardTitle>Nexaris AI Chatbot</CardTitle>
+          <CardTitle>Nexaris</CardTitle>
           <CardDescription>
             Engage in real-time conversations . Ask questions, get help, or generate ideas.
           </CardDescription>
@@ -22,7 +22,7 @@ export default function Home() {
         <CardContent>
           <ChatDemo />
         </CardContent>
-        <title>Nextjs App</title>
+        <title>Nexaris</title>
       </Card>
     </main>
   );
