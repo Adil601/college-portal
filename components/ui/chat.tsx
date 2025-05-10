@@ -242,3 +242,4 @@ function createFileList(files: File[] | FileList): FileList {
   }
   return dataTransfer.files
 }
+ 
