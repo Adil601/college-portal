@@ -9,10 +9,6 @@ type ChatDemoProps = {
   initialMessages?: UseChatOptions["initialMessages"];
 };
 
-/**
- * ChatDemo Component
- * A wrapper around the `Chat` UI component using `useChat` hook.
- */
 export function ChatDemo({ initialMessages }: ChatDemoProps) {
   const {
     messages,
