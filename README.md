@@ -1,6 +1,6 @@
 # 🤖 Nexaris – AI Chatbot 
 
-Nexaris is a cutting-edge AI chatbot application designed to transform simple user prompts into high-quality, context-aware text. Whether you're generating summaries, code snippets, emails, or articles, Nexaris delivers fast and reliable results through a sleek, intuitive interface.
+Nexaris is an AI chatbot application designed to transform simple user prompts into high-quality, context-aware text. Whether you're generating summaries, code snippets, emails, or articles, Nexaris delivers fast and reliable results through a sleek, intuitive interface.
 
 Built using **Next.js**, **TypeScript**, and **Tailwind CSS**, and powered by **Google's Gemini API**, Nexaris combines performance with extensibility for developers and usability for end-users.
 
