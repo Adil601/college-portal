@@ -56,7 +56,7 @@ Follow these steps to set up the project locally:
    Create a .env.local file and add your Gemini API key:
 
    ```bash
-       GOOGLE_API_KEY=google_api_key_here
+   GOOGLE_API_KEY=google_api_key_here
 
    ```
 
