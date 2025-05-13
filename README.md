@@ -44,30 +44,30 @@ Follow these steps to set up the project locally:
 
 2. **Install Dependencies**
 
-```bash
+   ```bash
    npm install
    # or
    yarn install
 
-```
+   ```
 
 2. **Set Up Environment Variables**
 
 Create a .env.local file and add your Gemini API key:
 
-```bash
+   ```bash
    GOOGLE_API_KEY=google_api_key_here
 
-```
+   ```
 
 3. **Run the Development Server**
 
-```bash
+   ```bash
    npm run dev
    # or
    yarn dev
 
-```
+   ```
 
 
 
