@@ -19,7 +19,7 @@ export function ChatDemo({ initialMessages }: ChatDemoProps) {
     stop,
     isLoading,
   } = useChat({
-    api: "/api/chat", // Using the default chat API route
+    api: "/api/chat",
     initialMessages,
   });
 
