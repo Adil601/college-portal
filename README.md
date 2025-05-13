@@ -22,21 +22,12 @@ Built using **Next.js**, **TypeScript**, and **Tailwind CSS**, and powered by **
 
 | Category        | Technology           |
 |----------------|----------------------|
-| Framework      | [Next.js](https://nextjs.org) |
+| Framework      | Next.js              |
 | Language       | TypeScript           |
 | Styling        | Tailwind CSS         |
 | State          | React Hooks          |
 | AI Integration | Google Gemini API    |
 | Deployment     | Vercel (recommended) |
-
----
-
-## 📁 Project Structure Highlights
-
-- `pages/api/generate.ts` – Serverless API route for interacting with Gemini
-- `src/hooks/useChat.ts` – Custom React hook for chat state and logic
-- `src/components/` – Modular, reusable UI components
-- `tailwind.config.js` – Tailwind CSS configuration
 
 ---
 
@@ -48,8 +39,10 @@ Follow these steps to set up the project locally:
    ```bash
    git clone https://github.com/yourusername/nexaris.git
    cd nexaris
+   
+   ```
 
-## Install Dependencies
+2. **Install Dependencies**
 
 ```bash
 npm install
@@ -58,15 +51,16 @@ yarn install
 
 ```
 
-## Set Up Environment Variables
+2. **Set Up Environment Variables**
 
 Create a .env.local file and add your Gemini API key:
+
 ```bash
   GOOGLE_API_KEY=google_api_key_here
 
 ```
 
-## Run the Development Server
+3. **Run the Development Server**
 
 ```bash
 npm run dev
